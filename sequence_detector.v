@@ -5,6 +5,6 @@ module top_module(
 );
 
 
-assign out=~in;
+assign out=in;
 
 endmodule
